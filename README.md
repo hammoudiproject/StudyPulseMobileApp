@@ -1,19 +1,18 @@
 # <img src="https://github.com/user-attachments/assets/b64d35ec-ef40-4db5-88e1-0d40e02e5ada" alt="Image 1" width="5%" /> StudyPulseMobileApp
 
+![presentation-image](https://github.com/user-attachments/assets/891c25d0-6c16-41ac-882c-50ec3d5060b4)
 
 
 # Overview
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/59a306ab-935e-4d44-b29f-d52ec14044b5" alt="Image 1" width="30%" />
-  <img src="https://github.com/user-attachments/assets/5c40d65d-3068-45a2-b51c-453b127f8d05" alt="Image 2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/9c49a702-9389-4db5-81e1-2bce6f1a7a36" alt="Image 3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c6f4319b-1501-4dfe-87c0-f93f96c41d48" alt="Image 1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8e36565e-bd72-4e23-813c-90fd87f1f5d3" alt="Image 2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6cb77b14-ac7b-4204-94dc-b4ab44ee8d92" alt="Image 3" width="30%" />
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/5923ea9b-df44-4d3c-bb7b-0a929ad5a997" alt="Image 6" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b1087d28-9735-4a44-8dba-88957f00191c" alt="Image 5" width="30%" />
-  <img src="https://github.com/user-attachments/assets/cb0f0eec-a7a2-4a46-af5c-c63c8ce7dd0f" alt="Image 4" width="30%" />
-
+    <img src="https://github.com/user-attachments/assets/8696040d-3b98-4882-98df-2215e894629f" alt="Image 6" width="30%" />
+  <img src="https://github.com/user-attachments/assets/aee5a2cb-7a76-447a-980d-1cde65d7223a" alt="Image 5" width="30%" />
 </div>
 
 
