@@ -1,6 +1,24 @@
-# <img src="https://github.com/user-attachments/assets/b64d35ec-ef40-4db5-88e1-0d40e02e5ada" alt="Image 1" width="5%" /> StudyPulseMobileApp
+#  <img src="https://github.com/user-attachments/assets/4a8e23f7-d74a-4d09-b3fb-314e0aeb0349" alt="Image 1" width="5%" /> Study Pulse
 
 ![presentation-image](https://github.com/user-attachments/assets/891c25d0-6c16-41ac-882c-50ec3d5060b4)
+
+Study Pulse helps you to evaluate your daily routines, academic habits, and mental well-being with relatable quizzes and smart insights.
+
+*Study Pulse:* Through a 10-question quiz, gain insights into key areas like focus, procrastination, time management, and lifestyle choices. Whether you’re a school student or a one completing your master's degree, this app will analyze your habits in ways that you can relate to. 
+
+The app scores responses on a scale of 1–4, categorizing students into Excellent, Average, or Struggling tiers, and provides tailored recommendations to improve productivity, reduce stress, and foster healthier habits.
+
+What Study Pulse Does:    
+
+✅ Quiz-Based Assessment – Users answer questions about study habits, screen time, and mental health .
+
+✅ Scoring: – Answers are scored to identify strengths and weaknesses.Get unique, themed feedback based on your score.
+
+✅ Recommendations: Customized suggestions like meal-prepping to save money, study hacks, or stress-relief exercises.
+
+
+Disclaimer
+All animations were generated using lottie
 
 
 # Overview
